@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Training-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,7 +72,7 @@ The following table provides an exhaustive comparison of industry-leading commer
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of production-grade open-source virtual classroom suites, live audience response systems (ARS), interactive developer presentation engines, and collaborative whiteboards. Sorted by **GitHub Star Count** in descending order:
+Curated list of production-grade open-source virtual classroom suites, live audience response systems (ARS), interactive developer presentation engines, and collaborative whiteboards. Sorted by **GitHub Stars_Count** in descending order:
 
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)** <a href="https://github.com/excalidraw/excalidraw/stargazers"><img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white" alt="Excalidraw Stars"/></a>  
   🎨 Virtual collaborative whiteboard with a hand-drawn feel. Heavily utilized in live technical workshops, software architecture trainings, and interactive design sessions with real-time end-to-end encrypted sharing.
@@ -191,7 +191,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, comprehens
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-platform-name`).
 3. ✏️ **Add your project** to the respective table or open-source list in alphabetical or sorted order.
 4. 📝 Ensure SaaS entries include verified **pricing, free tier limits, and company size metrics**.
-5. 🔍 For open-source additions, include the official GitHub repository link with the required star count badge.
+5. 🔍 For open-source additions, include the official GitHub repository link with the required Stars_Count badge.
 6. 🚀 **Submit a Pull Request** with a clear summary of why the tool is valuable for interactive presentations and training.
 
 ---
